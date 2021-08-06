@@ -122,6 +122,20 @@ h1 {
     height: 427px;
 }
 
+/* ----------
+Partners AREA
+------------- */
+
+.partners-brand {
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    align-items: center;
+    width: 484px;
+    height: 213px;
+}
+
+
 /*-------------
  Footer Area 
  -------------*/
