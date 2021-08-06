@@ -126,15 +126,21 @@ h1 {
 Partners AREA
 ------------- */
 
-.partners-brand {
+.partner-brand {
     display: flex;
     justify-content: right;
     flex-direction: row;
     align-items: center;
-    width: 484px;
-    height: 213px;
+    
 }
-
+h4{
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.partners{
+    margin-bottom: 80px;
+}
 
 /*-------------
  Footer Area 
@@ -171,7 +177,7 @@ footer p {
 .social-icons {
     display: flex;
     flex-direction: row;
-    align-items: ;
+    align-items: center ;
     padding: 0px;
     font-size: 20px;
 }
